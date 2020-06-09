@@ -488,7 +488,7 @@ Access: Registration
 #### MISP
 ![website status](https://img.shields.io/uptimerobot/ratio/90/m784222905-40613c553c48467e006bea7a)
 
-Website: https://exchange.xforce.ibmcloud.com/
+Website: https://www.misp-project.org/
  (software)
 
 Provider: Community
