@@ -1184,7 +1184,17 @@ Vendor: Tenable
 
 License: Proprietary
 
+#### Google Tsunami
+![GitHub stars](https://img.shields.io/github/stars/google/tsunami-security-scanner?style=flat-square&cacheSeconds=86400)
+![GitHub last commit](https://img.shields.io/github/last-commit/google/tsunami-security-scanner?style=flat-square&cacheSeconds=86400)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/google/tsunami-security-scanner?style=flat-square&cacheSeconds=86400)
 
+
+Website: https://github.com/google/tsunami-security-scanner
+
+Maintainer : community
+
+License: Apache License 2.0
 
 ## Automated spam collection
 
